@@ -11,4 +11,4 @@ https://drive.google.com/file/d/1_87jGRN0b8DeC_BRXseWPYagO0T0ux5t/view
 
 Final results 
 
-![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
+![markdown](https://github.com/Tiendung512/Detection-Cloud/blob/main/final_results.png)
