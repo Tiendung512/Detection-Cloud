@@ -11,4 +11,5 @@ https://drive.google.com/file/d/1_87jGRN0b8DeC_BRXseWPYagO0T0ux5t/view
 
 Final results 
 
-<img src="(https://github.com/Tiendung512/Detection-Cloud/blob/main/final_results.png)">
+<img src="[link_anh_cua_ban](https://github.com/Tiendung512/Detection-Cloud/blob/main/final_results.png)">
+https://github.com/Tiendung512/Detection-Cloud/blob/main/final_results.png
