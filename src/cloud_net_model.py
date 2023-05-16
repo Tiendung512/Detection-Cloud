@@ -2,6 +2,7 @@ from keras.models import Model
 from keras.layers import Input, concatenate, Conv2D, MaxPooling2D, Conv2DTranspose, BatchNormalization,\
     Activation, Dropout
 import keras
+import visualkeras
 
 """
 Some parts borrowed from https://www.kaggle.com/cjansen/u-net-in-keras
@@ -250,4 +251,4 @@ def model_arch(input_rows=192, input_cols=192, num_of_channels=4, num_of_classes
     conv12 = Conv2D(num_of_classes, (1, 1), activation='sigmoid')(conv11)
     return Model(inputs=[inputs], outputs=[conv12])
 
-
+visualkeras.layered_view(model_arch)
